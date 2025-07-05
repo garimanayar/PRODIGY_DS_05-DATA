@@ -1,0 +1,59 @@
+# 🛣️ Prodigy Infotech Internship - Task 05
+
+### 📌 Task Name: US Accidents Data Analysis
+
+This project performs **exploratory data analysis (EDA)** on the **US_Accidents_March23.csv** dataset to extract meaningful insights about road accidents in the United States.
+
+---
+
+### 📂 Dataset Information
+
+- **Source**: [US Accidents (Kaggle)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+- **Size**: ~2.8 million accident records across the US
+- **Columns**: Location, Time, Weather, Traffic Conditions, etc.
+
+---
+
+### 🧠 Objective
+
+The main goals of this task are:
+
+- Load and clean the data
+- Identify patterns in accidents by time, state, city, and weather
+- Visualize the data using graphs and plots
+- Generate insights from the dataset
+
+---
+
+### 📊 Key Findings
+
+- Most accidents occur during **morning (7–9 AM)** and **evening (4–6 PM)** rush hours.
+- **California**, **Florida**, and **Texas** are the top 3 states with the most accidents.
+- **Clear weather** is the most common condition, followed by Rain and Overcast.
+- **Los Angeles, Houston**, and **Charlotte** are cities with the highest accident frequency.
+
+---
+
+### 🧪 Tools Used
+
+- Python 🐍
+- Pandas 🐼
+- Matplotlib 📊
+- Seaborn 🌈
+- Google Colab / Jupyter Notebook
+
+---
+
+### 📁 Files Included
+
+| File Name | Description |
+|-----------|-------------|
+| `Task-05_US_Accidents_Analysis.ipynb` | Main notebook with all analysis and visualizations |
+| `US_Accidents_March23.csv` | Dataset used (too large to upload; add link if needed) |
+
+---
+
+### 📌 Note
+
+Due to GitHub's 25MB file limit, the dataset may not be uploaded directly here.  
+You can download it separately from [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).
